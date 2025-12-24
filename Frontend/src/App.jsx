@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <p>hi</p>
+      <p>Smart school System</p>
     </>
   );
 }
