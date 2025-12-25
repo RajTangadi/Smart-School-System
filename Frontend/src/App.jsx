@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <p>Smart school System</p>
+      <p className="text-red-400">Smart school System</p>
     </>
   );
 }
