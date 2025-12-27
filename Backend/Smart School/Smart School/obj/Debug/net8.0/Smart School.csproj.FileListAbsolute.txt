@@ -1,0 +1,154 @@
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\appsettings.Development.json
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\appsettings.json
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Smart School.staticwebassets.endpoints.json
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Smart School.exe
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Smart School.deps.json
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Smart School.runtimeconfig.json
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Smart School.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Smart School.pdb
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Azure.Core.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Azure.Identity.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Humanizer.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\System.ClientModel.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\System.CodeDom.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\Smart School.csproj.AssemblyReference.cache
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\Smart School.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\Smart School.AssemblyInfoInputs.cache
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\Smart School.AssemblyInfo.cs
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\Smart School.csproj.CoreCompileInputs.cache
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\Smart School.MvcApplicationPartsAssemblyInfo.cs
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\Smart School.MvcApplicationPartsAssemblyInfo.cache
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\Smart School.sourcelink.json
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\scopedcss\bundle\Smart School.styles.css
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\staticwebassets.build.json
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\staticwebassets.development.json
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\Smart Sc.87090648.Up2Date
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\Smart School.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\refint\Smart School.dll
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\Smart School.pdb
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\Smart School.genruntimeconfig.cache
+F:\Project\Smart-School-System\Backend\Smart School\Smart School\obj\Debug\net8.0\ref\Smart School.dll
