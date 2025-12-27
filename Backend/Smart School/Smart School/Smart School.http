@@ -1,0 +1,6 @@
+@Smart_School_HostAddress = http://localhost:5234
+
+GET {{Smart_School_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

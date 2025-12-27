@@ -1,0 +1,70 @@
+## Build results
+bin/
+obj/
+out/
+
+## .NET Core / ASP.NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio
+.vs/
+.vscode/
+*.vspscc
+*.vssscc
+*.nupkg
+*.snupkg
+
+## Rider / JetBrains
+.idea/
+
+## OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Secrets & environment files
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+secrets.json
+.env
+.env.*
+
+## Logs
+logs/
+*.log
+
+## Test results
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+## Publish output
+publish/
+wwwroot/lib/
+
+## EF Core
+Migrations/*.Designer.cs
+Migrations/*.Snapshot.cs
+
+## Node (if frontend or tooling exists)
+node_modules/
+
+## Certificates
+*.pfx
+*.cer
