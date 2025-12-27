@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Smart School")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c4695b844749634761b240f090a4ccf87be5ef2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eace375769f7a0f435ac9a40d2fb298c7bbaf732")]
 [assembly: System.Reflection.AssemblyProductAttribute("Smart School")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Smart School")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
