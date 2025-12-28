@@ -5,31 +5,27 @@ namespace Smart_School.Models
 {
     public class Notifications
     {
+        
+
+
+        //===========================================================================================
         [Key]
-        public int NotificationId { get; set; }
+        public long NotificationId { get; set; }
 
-        [Required]
-        public int StudentId { get; set; }
-
-        [ForeignKey("StudentId")]
-        public Student Student { get; set; }
-
-        [Required]
-        public int AttendanceId { get; set; }
-
-        [ForeignKey("AttendanceId")]
+        // 🔗 Attendance Relation
+        public long AttendanceId { get; set; }
         public Attendance Attendance { get; set; }
 
-        [Required]
+        // 🔗 Student Relation
+        public long StudentId { get; set; }
+        public Student Student { get; set; }
+
         public DateTime Date { get; set; }
 
-        [Required]
         public string Message { get; set; }
 
-        [Required]
-        public NotificationType Type { get; set; }
+        public NotificationType Type { get; set; }   // EMAIL / SMS
 
-        [Required]
-        public NotificationStatus Status { get; set; }
+        public NotificationStatus Status { get; set; }   // SENT / FAILED
     }
 }
