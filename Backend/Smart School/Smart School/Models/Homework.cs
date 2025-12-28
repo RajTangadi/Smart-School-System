@@ -7,15 +7,15 @@ public class Homework
 {
     [Key]
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-    public long HomeworkId { get; set; }
+    public int HomeworkId { get; set; }
 
     [Required(ErrorMessage = "Class is required")]
     [ForeignKey("Class")]
-    public long ClassId { get; set; }
+    public int ClassId { get; set; }
 
     [Required(ErrorMessage = "Subject is required")]
     [ForeignKey("Subject")]
-    public long SubjectId { get; set; }
+    public int SubjectId { get; set; }
 
     [Required(ErrorMessage = "Description is required")]
     [StringLength(500, MinimumLength = 5,
@@ -28,10 +28,10 @@ public class Homework
 
     [Required(ErrorMessage = "Teacher is required")]
     [ForeignKey("Teacher")]
-    public long TeacherId { get; set; }
+    public int TeacherId { get; set; }
 
     // Navigation properties
-    public Class Classes { get; set; }
+    public Classes Classes { get; set; }
     public Subject Subject { get; set; }
     public Teacher Teacher { get; set; }
 }

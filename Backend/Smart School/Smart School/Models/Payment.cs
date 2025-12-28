@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Smart_School.Enums;
+using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -7,11 +8,11 @@ namespace Smart_School.Models
     public class Payment
     {
         [Key]
-        public long PaymentId { get; set; }
+        public int PaymentId { get; set; }
 
         [Required(ErrorMessage = "Student is required")]
         [ForeignKey("Student")]
-        public long StudentId { get; set; }
+        public int StudentId { get; set; }
 
         [Required(ErrorMessage = "Payment amount is required")]
         [Range(1, double.MaxValue, ErrorMessage = "Amount must be greater than 0")]
@@ -20,9 +21,6 @@ namespace Smart_School.Models
         [Required(ErrorMessage = "Payment date is required")]
         [DataType(DataType.Date)]
         public DateTime PaymentDate { get; set; }
-
-        [Required(ErrorMessage = "Payment mode is required")]
-        public PaymentMode PaymentMode { get; set; }
 
         [StringLength(100, ErrorMessage = "Transaction ID cannot exceed 100 characters")]
         public string? TransactionId { get; set; }

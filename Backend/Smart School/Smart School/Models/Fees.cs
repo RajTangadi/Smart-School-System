@@ -7,11 +7,11 @@ public class Fees
 {
     [Key]
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-    public long FeeId { get; set; }
+    public int FeeId { get; set; }
 
     [Required(ErrorMessage = "Student is required")]
     [ForeignKey("Student")]
-    public long StudentId { get; set; }
+    public int StudentId { get; set; }
 
     [Required(ErrorMessage = "Total amount is required")]
     [Range(0, double.MaxValue, ErrorMessage = "Total amount must be greater than or equal to 0")]

@@ -7,15 +7,15 @@ namespace Smart_School.Models
     public class Student
     {
         [Key]
-        public long StudentId { get; set; }
+        public int StudentId { get; set; }
 
         [ForeignKey("User")]
-        public long UserId { get; set; }
+        public int UserId { get; set; }
 
         public string RollNo { get; set; }
 
         [ForeignKey("Class")]
-        public long ClassId { get; set; }
+        public int ClassId { get; set; }
 
         public string ParentName { get; set; }
         public string ParentEmail { get; set; }
@@ -25,6 +25,6 @@ namespace Smart_School.Models
 
         // Navigation
         public User User { get; set; }
-        public Class Class { get; set; }
+        public Classes Class { get; set; }
     }
 }

@@ -7,7 +7,7 @@ namespace Smart_School.Models
     public class Exam
     {
         [Key]
-        public long ExamId { get; set; }
+        public int ExamId { get; set; }
 
         [Required(ErrorMessage = "Exam name is required")]
         [StringLength(100, ErrorMessage = "Exam name cannot exceed 100 characters")]
@@ -15,13 +15,13 @@ namespace Smart_School.Models
 
         [Required(ErrorMessage = "Class is required")]
         [ForeignKey("Class")]
-        public long ClassId { get; set; }
+        public int ClassId { get; set; }
 
         [Required(ErrorMessage = "Exam date is required")]
         [DataType(DataType.Date)]
         public DateTime ExamDate { get; set; }
 
         // Navigation Property
-        public Class Class { get; set; }
+        public Classes Class { get; set; }
     }
 }

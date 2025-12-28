@@ -6,19 +6,19 @@ namespace Smart_School.Models
     public class Result
     {
         [Key]
-        public long ResultId { get; set; }
+        public int ResultId { get; set; }
 
         [Required(ErrorMessage = "Student is required")]
         [ForeignKey("Student")]
-        public long StudentId { get; set; }
+        public int StudentId { get; set; }
 
         [Required(ErrorMessage = "Subject is required")]
         [ForeignKey("Subject")]
-        public long SubjectId { get; set; }
+        public int SubjectId { get; set; }
 
         [Required(ErrorMessage = "Exam is required")]
         [ForeignKey("Exam")]
-        public long ExamId { get; set; }
+        public int ExamId { get; set; }
 
         [Required(ErrorMessage = "Marks are required")]
         [Range(0, 100, ErrorMessage = "Marks must be between 0 and 100")]

@@ -1,11 +1,12 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Smart_School.Enums;
+using System.ComponentModel.DataAnnotations;
 
 namespace Smart_School.Models
 {
     public class User
     {
         [Key]
-        public long UserId { get; set; }
+        public int UserId { get; set; }
 
         // 1️⃣ Username must start with a letter (no digit or special char)
         [Required(ErrorMessage = "Username is required")]
