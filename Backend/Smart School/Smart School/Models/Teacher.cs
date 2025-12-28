@@ -6,10 +6,10 @@
     public class Teacher
     {
         [Key]
-        public long TeacherId { get; set; }
+        public int TeacherId { get; set; }
 
         [ForeignKey("User")]
-        public long UserId { get; set; }
+        public int UserId { get; set; }
 
         public string Qualification { get; set; }
         public int Experience { get; set; }

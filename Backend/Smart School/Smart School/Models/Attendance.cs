@@ -2,6 +2,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Security.Claims;
 
 namespace Smart_School.Models
 {
@@ -50,6 +51,13 @@ namespace Smart_School.Models
         public Class Class { get; set; }
 
         public DateTime Date { get; set; }
+        [ForeignKey("ClassId")]
+        public int ClassId { get; set; }
+
+        public Classes Class { get; set; }
+
+        [Required]
+        public DateTime AttendanceDate { get; set; }
 
         public AttendanceStatus Status { get; set; }
 
@@ -59,6 +67,9 @@ namespace Smart_School.Models
         // 🔗 Notifications (One Attendance → Many Notifications)
         public ICollection<Notifications> Notification{ get; set; }
             = new List<Notifications>();
+
+        // Navigation property to notifications
+        public ICollection<Notifications> Notifications { get; set; } = new List<Notifications>();
 
     }
 }

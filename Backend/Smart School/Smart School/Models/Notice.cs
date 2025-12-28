@@ -6,7 +6,7 @@ public class Notice
 {
     [Key]
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-    public long NoticeId { get; set; }
+    public int NoticeId { get; set; }
 
     [Required(ErrorMessage = "Title is required")]
     [StringLength(150, MinimumLength = 3,
