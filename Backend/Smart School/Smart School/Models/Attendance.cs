@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Smart_School.Enums;
+using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -27,6 +28,6 @@ namespace Smart_School.Models
         public Teacher MarkedBy { get; set; }
 
         // Navigation property to notifications
-        public ICollection<AttendanceNotification> Notifications { get; set; } = new List<AttendanceNotification>();
+        public ICollection<Notifications> Notifications { get; set; } = new List<Notifications>();
     }
 }
