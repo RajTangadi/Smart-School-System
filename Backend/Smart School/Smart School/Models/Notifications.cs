@@ -5,29 +5,7 @@ namespace Smart_School.Models
 {
     public class Notifications
     {
-        //[Key]
-        //public int NotificationId { get; set; }
-
-        //[Required]
-        //public int AttendanceId { get; set; }
-
-        //[Required]
-        //public NotificationType NotificationType { get; set; }
-
-        //[Required]
-        //public string Message { get; set; }
-
-        //public string RecipientEmail { get; set; }
-        //public string RecipientPhone { get; set; }
-
-        //public bool IsSent { get; set; }
-
-        //public DateTime SentAt { get; set; }
-
-        //// Navigation Property
-        //[ForeignKey("AttendanceId")]
-        //public Attendance Attendance { get; set; }
-
+        
 
 
         //===========================================================================================

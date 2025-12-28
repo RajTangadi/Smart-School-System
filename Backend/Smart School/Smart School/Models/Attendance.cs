@@ -34,8 +34,6 @@ namespace Smart_School.Models
         //[ForeignKey("MarkedByTeacherId")]
         //public Teacher MarkedBy { get; set; }
 
-
-
         //// Navigation property to notifications
         //public ICollection<Notifications> Notifications { get; set; } = new List<Notifications>();
 
