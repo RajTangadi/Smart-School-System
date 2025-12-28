@@ -5,9 +5,9 @@ namespace Smart_School.Data
 {
     public class ApplicationDbContext : DbContext
     {
-            public ApplicationDbContext(DbContextOptions options) : base(options)
-            {
-            }
+        public ApplicationDbContext(DbContextOptions options) : base(options)
+        {
+        }
 
         // User & Roles
         public DbSet<User> Users { get; set; }
@@ -18,10 +18,10 @@ namespace Smart_School.Data
         public DbSet<Classes> Classes { get; set; }
         public DbSet<Subject> Subjects { get; set; }
         public DbSet<Attendance> Attendances { get; set; }
-        public DbSet<Notifications> AttendanceNotifications { get; set; }
+        public DbSet<Notifications> Notifications { get; set; }
 
         // Exams & Results
-        public DbSet<Exam> Exams { get; set; }
+        public DbSet<Exam> Exams { get; set; } 
         public DbSet<Result> Results { get; set; }
 
         // Fees & Payments
@@ -36,33 +36,33 @@ namespace Smart_School.Data
         {
             base.OnModelCreating(modelBuilder);
 
-            
+
             // USER ↔ STUDENT (1:1)
-         
+
             modelBuilder.Entity<User>()
                 .HasOne(u => u.Student)
                 .WithOne(s => s.User)
                 .HasForeignKey<Student>(s => s.UserId)
                 .OnDelete(DeleteBehavior.Cascade);
 
-            
+
             // USER ↔ TEACHER (1:1)
-           
+
             modelBuilder.Entity<User>()
                 .HasOne(u => u.Teacher)
                 .WithOne(t => t.User)
                 .HasForeignKey<Teacher>(t => t.UserId)
                 .OnDelete(DeleteBehavior.Cascade);
 
-      
+
             // CLASS ↔ STUDENTS (1:M)
-       
+
             modelBuilder.Entity<Class>()
                 .HasMany<Student>()
                 .WithOne(s => s.Class)
                 .HasForeignKey(s => s.ClassId);
 
-            
+
             // CLASS ↔ SUBJECTS (1:M)
 
             modelBuilder.Entity<Class>()
@@ -70,17 +70,17 @@ namespace Smart_School.Data
                 .WithOne(s => s.Class)
                 .HasForeignKey(s => s.ClassId);
 
-           
+
             // TEACHER ↔ SUBJECTS (1:M)
-           
+
             modelBuilder.Entity<Teacher>()
                 .HasMany<Subject>()
                 .WithOne(s => s.Teacher)
                 .HasForeignKey(s => s.TeacherId);
 
-           
+
             // ATTENDANCE
-           
+
             modelBuilder.Entity<Attendance>()
                 .HasOne(a => a.Student)
                 .WithMany()
@@ -96,9 +96,9 @@ namespace Smart_School.Data
                 .HasIndex(a => new { a.StudentId, a.Date })
                 .IsUnique();
 
-           
+
             // RESULTS
-           
+
             modelBuilder.Entity<Result>()
                 .HasOne(r => r.Student)
                 .WithMany()
@@ -114,9 +114,9 @@ namespace Smart_School.Data
                 .WithMany()
                 .HasForeignKey(r => r.ExamId);
 
-           
+
             // FEES & PAYMENTS
-            
+
             modelBuilder.Entity<Fee>()
                 .HasOne(f => f.Student)
                 .WithMany()
@@ -127,9 +127,9 @@ namespace Smart_School.Data
                 .WithMany()
                 .HasForeignKey(p => p.StudentId);
 
-         
+
             // HOMEWORK
-          
+
             modelBuilder.Entity<Homework>()
                 .HasOne(h => h.Class)
                 .WithMany()
@@ -145,9 +145,9 @@ namespace Smart_School.Data
                 .WithMany()
                 .HasForeignKey(h => h.TeacherId);
 
-          
+
             // ENUMS AS STRINGS
-           
+
             modelBuilder.Entity<User>()
                 .Property(u => u.Role)
                 .HasConversion<string>();
@@ -166,4 +166,6 @@ namespace Smart_School.Data
 
 
         }
+    }
+
 }
