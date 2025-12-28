@@ -31,7 +31,7 @@ public class Homework
     public long TeacherId { get; set; }
 
     // Navigation properties
-    public Classes Classes { get; set; }
+    public Class Classes { get; set; }
     public Subject Subject { get; set; }
     public Teacher Teacher { get; set; }
 }
